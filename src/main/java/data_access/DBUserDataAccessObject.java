@@ -65,6 +65,26 @@ public class DBUserDataAccessObject implements SignupUserDataAccessInterface,
         }
     }
 
+    /**
+     * Updates the current user that is logged in.
+     *
+     * @param name the name of the user
+     */
+    @Override
+    public void setCurrentUser(String name) {
+
+    }
+
+    /**
+     * Gets the current user that is logged in.
+     *
+     * @return the current user
+     */
+    @Override
+    public String getCurrentUser() {
+        return "";
+    }
+
     @Override
     public boolean existsByName(String username) {
         final OkHttpClient client = new OkHttpClient().newBuilder()
