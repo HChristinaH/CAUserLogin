@@ -8,7 +8,7 @@ applications that require users to have their own accounts with personal details
 
 
 ## Table of Contents
-Features [Link Text][#Features]
+Features [Link Text](#Features)
 
 ## Features
 A user can sign up by entering a username and a repeated password. 
