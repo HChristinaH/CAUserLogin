@@ -8,7 +8,7 @@ applications that require users to have their own accounts with personal details
 
 
 ## Table of Contents
-[Features](#Features) \n
+[Features](#Features) <br>
 [Installation](#Installation)
 [Usage](#Usage)
 [Contributing](#Contributing)
