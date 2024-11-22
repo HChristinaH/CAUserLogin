@@ -1,5 +1,5 @@
 ### User Login System
-Contributors: Jonathan Calver...
+Contributors: Jonathan Calver
 
 ## Purpose
 
@@ -37,7 +37,7 @@ In the pull request, state all modifications to files and why.
 ## License
 MIT License
 
-Copyright (c) [2024] [Christina Huang]
+Copyright (c) [2024] [Jonathan Calver]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
